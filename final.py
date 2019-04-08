@@ -93,7 +93,6 @@ def hindi():
     r2.geometry("400x400+0+0")
     r2.title('Hindi')
     Label(r2,text="Your selection is hindi",font='arial 25',fg='Black',bd=5,relief=SUNKEN).grid(row=0,column=0,columnspan=7)
-    Label(r2,text="hello this is utkarsh\n means \n नमस्ते यह utkarsh है",font='arial 20',fg='Blue',bd=5,relief=SUNKEN).grid(row=3,column=2)
     gs = goslate.Goslate()
     
     
